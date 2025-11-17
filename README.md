@@ -32,3 +32,4 @@ Le solver-shikaku utilise les bibliothèques `numpy` et `matplotlib`.
 
 Voici a quoi devrait ressembler par exemple ici la solution pour la grille **250513** de niveau medium : 
 
+![Solution grille niveau medium](/solutionImage/solution.png)
